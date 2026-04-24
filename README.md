@@ -55,8 +55,8 @@ RMSE является основной метрикой, так как силь�
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/hsemlcourse/hseml-group-project-spynder
-cd hseml-group-project-spynder
+git clone https://github.com/hsemlcourse/hseml-group-project-spynder-1
+cd hseml-group-project-spynder-1
 ```
 
 ### 2. Создать виртуальное окружение
