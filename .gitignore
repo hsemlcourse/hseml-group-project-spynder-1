@@ -30,22 +30,8 @@ env/
 */.ipynb_checkpoints/*
 
 # =============================================================================
-# Data — large files are NOT committed
+# Data — keep dataset files
 # =============================================================================
-data/raw/*.csv
-data/raw/*.json
-data/raw/*.parquet
-data/raw/*.xlsx
-data/raw/*.zip
-data/raw/*.tar.gz
-data/raw/*.h5
-data/raw/*.hdf5
-data/processed/*.csv
-data/processed/*.json
-data/processed/*.parquet
-data/processed/*.pkl
-data/processed/*.npy
-data/processed/*.npz
 
 # Keep directory structure
 !data/raw/.gitkeep
