@@ -1,0 +1,7 @@
+services:
+  ml-project:
+    build: .
+    container_name: ml-project
+    working_dir: /app
+    ports:
+      - "8000:8000"

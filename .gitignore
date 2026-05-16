@@ -85,5 +85,6 @@ ehthumbs.db
 *.tmp
 .cache/
 .pytest_cache/
+.ruff_cache/
 .coverage
 htmlcov/
