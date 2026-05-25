@@ -175,7 +175,7 @@ make docker-up
 
 Демонстрацию деплоя можно посмотреть:
 
-<video src="./demo.mp4" width="100%" controls></video>
+![Демо](./demo.webp)
 
 ## 8. Заключение и выводы
 
